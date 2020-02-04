@@ -3,6 +3,8 @@ CLI TOTP tool. Not very fashionable; just the basics.
 
 I don't really know C#: I just wanted to get access to the Credential Manager. Maybe when I know Windows 7 is dead, I will use PasswordVault instead.
 
+Current text in the app is pretty casual. Will tighten it up and have it in both of Canada's official languages in the future.
+
 
 ## Props
 [Otp.NET](https://github.com/kspearrin/Otp.NET)
